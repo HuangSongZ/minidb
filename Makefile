@@ -44,6 +44,6 @@ test: $(TEST_DISK_MANAGER)
 
 # 清理
 clean:
-	rm -rf $(BUILD_DIR)/* $(BIN_DIR)/*
+	rm -rf $(BUILD_DIR) $(BIN_DIR)
 
 .PHONY: all test clean
