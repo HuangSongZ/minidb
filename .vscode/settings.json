@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.out": "sql",
+        "fstream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
